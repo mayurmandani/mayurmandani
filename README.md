@@ -3,7 +3,7 @@ Hi there, I'm Mayur Mandani!
 </h1>
 
 <h3 align='center'>
-I'm a Frontend Developer by passion from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
 I have 10 years of professional experience in building responsive web applications and websites for the financial, travel, e-commerce, and banking domain.
