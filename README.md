@@ -6,7 +6,7 @@ Hi there, I'm Mayur Mandani!
 A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
-FrontEnd Developer with 12.8 years of professional experience in building responsive web applications and websites for the financial, travel, e-commerce, and banking domains. Strong expertise in unit testing, user tracking, and technical documentation, with a commitment to delivering innovative solutions and fostering a collaborative work environment.
+FrontEnd Developer with 13.5 years of professional experience in building responsive web applications and websites for the financial, travel, e-commerce, and banking domains. Strong expertise in unit testing, user tracking, and technical documentation, with a commitment to delivering innovative solutions and fostering a collaborative work environment.
 
 ## 🔗 Let's Connect:
 
